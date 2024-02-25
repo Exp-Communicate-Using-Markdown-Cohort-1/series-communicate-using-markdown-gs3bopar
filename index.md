@@ -8,6 +8,6 @@
 ![Some text for my image](https://octodex.github.com/images/yaktocat.png)
 
 ```
-git init
-./file.sh
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
