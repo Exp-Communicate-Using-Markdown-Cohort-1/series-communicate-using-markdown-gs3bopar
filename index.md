@@ -4,3 +4,10 @@
 #### Header h4
 ##### Header h5
 ###### Header h6
+
+![Some text for my image](https://octodex.github.com/images/yaktocat.png)
+
+```
+git init
+./file.sh
+```
